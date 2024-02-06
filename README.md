@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student from ISU</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Programming+attempts.+3rd+year+on+ISU)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Programming+attempts.+4rd+year+on+ISU)](https://git.io/typing-svg)
 
 <!--
 **HonestGiftless/HonestGiftless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
