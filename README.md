@@ -8,7 +8,7 @@
 **HonestGiftless/HonestGiftless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 He completed his studies at ISU
+- 🔭 Сompleted studies at ISU
 - 🌱 I know programming languages such as Python, JavaScript, HTML+CSS.
 - 👯 Now I work in IT-Cube
 - 💬 Ask me about my job if u want
